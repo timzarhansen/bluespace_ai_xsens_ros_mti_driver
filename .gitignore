@@ -1,4 +1,4 @@
 *.d
 *.o
 *.dpp
-*.a
+*.a.DS_Store
